@@ -1,8 +1,8 @@
 {
     "name": "Video FFMPEG Bot",
     "description": "A Telegram Bot Which Allow Us To Merge Videos",
-    "repository": "https://github.com/AbirHasan2005/videomerge_bot",
-    "logo": "https://telegra.ph/file/9d25c6bc85a8bfcca98df.jpg",
+    "repository": "https://github.com/PerU-MoNsteR/Video-Merge-bot",
+    "logo": "",
     "keywords": [
         "python",
         "telegram",
